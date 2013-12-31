@@ -12,7 +12,6 @@ setup(name='ckanapi',
       install_requires = [
           # See versions here: https://github.com/okfn/ckan/blob/master/requirements.txt
           'ckan',
-          'ckanapi',
           'formencode',
           'vdm',
           'sqlalchemy == 0.7.0',
